@@ -1,0 +1,4 @@
+bbmapi
+======
+
+Blackberry Messenger API
